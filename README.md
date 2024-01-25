@@ -7,7 +7,7 @@ Check the overview of the project here -->
 https://www.canva.com/design/DAF66nFKDvg/I9aIC-BISvRCxHgKiNRZoQ/edit?utm_content=DAF66nFKDvg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## How to run the I-mage application
-  - Download this folder --> https://drive.google.com/file/d/1COluPc8_IoWrH1eNJrP1F55CmYqkCb7j/view?usp=sharing and upzip it.
+  - Download this folder --> https://drive.google.com/file/d/1COluPc8_IoWrH1eNJrP1F55CmYqkCb7j/view?usp=sharing and unzip it.
   - Find the i-mage.exe file in the application and Run it.
   - Now the application is ready to use!
 
